@@ -1,14 +1,21 @@
-# TimerTrack 🏎
+<h1 align="center">:zap: TRacer Project - TimerTrack 🏎</h1> 
 
 ![banner](https://github.com/L-A-N-E/CP2_Edge_1SEM/assets/153787379/132308ff-27a0-45e7-8323-80d9103f2390)
 
-## Table of Contents :memo:
+<h1 align="center"> :speaking_head: Read this in other languages:exclamation:</h1>
+
+<p align="center">
+<a href="README-en.md" align="center">English</a> •
+<a href="README.md" align="center">Portuguese</a> 
+</p>
+  
+## Index :memo:
 
 * [Project Description](#project-description-memo)
    * [Introduction](#introduction-1st_place_medal)
    * [TimeTracker](#timetracker-2nd_place_medal)
    * [Future of the Project](#future-of-the-project-3rd_place_medal)
-* [Access to the Project](#acess-to-the-project-file_folder)
+* [Access to the Project](#access-to-the-project-file_folder)
 * [Tools Used](#tools-used-hammer_and_wrench)
 * [Libraries Used](#libraries-used-books)
 * [Required Components](#required-components-toolbox)
