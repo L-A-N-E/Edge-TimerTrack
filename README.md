@@ -42,7 +42,7 @@ Ao pressionar o primeiro botão, o tempo é registrado, e o LED azul acende brev
 
 ## Acesso ao projeto :file_folder:
 
-Você pode acessar o [código do projeto](timer_track.cpp) ou a [simulação feita no Wooki](https://wokwi.com/projects/398423919785427969)
+Você pode acessar o [código do projeto](code/timer_track.cpp) ou a [simulação feita no Wooki](https://wokwi.com/projects/398423919785427969)
 
 ## Ferramentas utilizadas :hammer_and_wrench:
 
@@ -117,7 +117,7 @@ Você pode acessar o [código do projeto](timer_track.cpp) ou a [simulação fei
 
 ## Pessoas Desenvolvedoras do Projeto :globe_with_meridians:
 
-| [<img src="https://avatars.githubusercontent.com/u/101829188?v=4" width=115><br><sub>Alice Santos Bulhões</sub>](https://github.com/AliceSBulhoes) |  [<img src="https://avatars.githubusercontent.com/u/163866552?v=4" width=115><br><sub>Eduardo Oliveira Cardoso Madid</sub>](https://github.com/EduardoMadid) |  [<img src="https://media.licdn.com/dms/image/D5603AQF59776BVSUSg/profile-displayphoto-shrink_800_800/0/1697337839569?e=1717632000&v=beta&t=4spOdaBAcH7gOmyEpgpyF6hk1TM14MvCJ5DI-CNdCsI" width=115><br><sub>Lucas Henzo Ide Yuki</sub>](https://github.com/LucasYuki1) | [<img src="https://avatars.githubusercontent.com/u/153787379?v=4" width=115><br><sub>Nicolas Haubricht Hainfellner</sub>](https://github.com/NicolasHaubricht) |
+| [<img src="https://avatars.githubusercontent.com/u/101829188?v=4" width=115><br><sub>Alice Santos Bulhões</sub>](https://github.com/AliceSBulhoes) |  [<img src="https://avatars.githubusercontent.com/u/163866552?v=4" width=115><br><sub>Eduardo Oliveira Cardoso Madid</sub>](https://github.com/EduardoMadid) |  [<img src="https://media.licdn.com/dms/image/D5603AQF59776BVSUSg/profile-displayphoto-shrink_800_800/0/1697337839569?e=1723680000&v=beta&t=YkJsytMw1CG6PAHW1B371ZOdpjAAh0rWPrXhXnDMCw4" width=115><br><sub>Lucas Henzo Ide Yuki</sub>](https://github.com/LucasYuki1) | [<img src="https://avatars.githubusercontent.com/u/153787379?v=4" width=115><br><sub>Nicolas Haubricht Hainfellner</sub>](https://github.com/NicolasHaubricht) |
 | :---: | :---: | :---: | :---: |
 | RM:554499 | RM:556349 | RM:554865 | RM:556259 |
 
