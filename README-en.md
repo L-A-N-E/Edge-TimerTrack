@@ -28,7 +28,7 @@
 
 <h3>Introduction :1st_place_medal:</h3>
 <p>
-The TRACER project is an innovative initiative aimed at creating an active and friendly community around Formula E.
+The TRacer project is an innovative initiative aimed at creating an active and friendly community around Formula E.
 This project consists of a comprehensive website, offering detailed information on all aspects of Formula E,
 and an interactive application that is fully integrated with the website. One of the main features of this
 application is the ranking table, also known as the points table, which will be fed by data collected through
@@ -40,7 +40,7 @@ the application.
 
 <h3>TimeTracker :2nd_place_medal:</h3>
 <p>
-The TimeTracker is a crucial component of the TRACER project, acting as a prototype for future improvements
+The TimeTracker is a crucial component of the TRacer project, acting as a prototype for future improvements
 and expansions. This device is designed to record and calculate the travel time of a car between two points.
 Using a Real-Time Clock (RTC) and input buttons, the TimeTracker accurately measures the elapsed time between
 button presses, which represent the car passing through two checkpoints.
@@ -54,7 +54,7 @@ animation of a car on the LCD display, creating an interactive experience for us
 
 <h3>Future of the Project :3rd_place_medal:</h3>
 <p>
-In the future development of the TRACER project, we have several improvements and expansions planned. One of the main
+In the future development of the TRacer project, we have several improvements and expansions planned. One of the main
 goals is to replace the Arduino UNO with the ESP32, which will allow for greater connectivity and efficiency in data
 collection and transmission. This change will be crucial for the evolution of the TimeTracker and other system
 functionalities.
