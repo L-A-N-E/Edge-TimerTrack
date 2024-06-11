@@ -1,6 +1,13 @@
-# TimerTrack 🏎
+<h1 align="center">:zap: Projeto TRacer - TimerTrack 🏎</h1> 
 
 ![banner](https://github.com/L-A-N-E/CP2_Edge_1SEM/assets/153787379/132308ff-27a0-45e7-8323-80d9103f2390)
+
+<h1 align="center"> :speaking_head: Leia isso em outros idiomas:exclamation:</h1>
+
+<p align="center">
+<a href="README-en.md" align="center">Inglês</a> •
+<a href="README.md" align="center">Português</a> 
+</p>
 
 ## Índice 📃
 
@@ -21,12 +28,12 @@
 
 <h3>Introdução :1st_place_medal:</h3>
 <p>
-O projeto TRACER é uma iniciativa inovadora que visa criar uma comunidade ativa e amigável em torno da Fórmula E. Este projeto é composto por um site abrangente, que oferece informações detalhadas sobre todos os aspectos da Fórmula E, e um aplicativo interativo que está totalmente integrado ao site. Uma das principais funcionalidades deste aplicativo é a tabela de ranking, também conhecida como tabela de pontuação, que será alimentada pelos dados coletados através do nosso protótipo, o TimeTracker. A tabela de ranking será atualizada em tempo real, garantindo a competitividade e o engajamento contínuo da comunidade de fãs da Fórmula E. Nosso objetivo é proporcionar uma experiência rica e dinâmica, permitindo que os usuários acompanhem o desempenho de seus pilotos favoritos e participem de competições amistosas dentro do aplicativo.
+O projeto TRacer é uma iniciativa inovadora que visa criar uma comunidade ativa e amigável em torno da Fórmula E. Este projeto é composto por um site abrangente, que oferece informações detalhadas sobre todos os aspectos da Fórmula E, e um aplicativo interativo que está totalmente integrado ao site. Uma das principais funcionalidades deste aplicativo é a tabela de ranking, também conhecida como tabela de pontuação, que será alimentada pelos dados coletados através do nosso protótipo, o TimeTracker. A tabela de ranking será atualizada em tempo real, garantindo a competitividade e o engajamento contínuo da comunidade de fãs da Fórmula E. Nosso objetivo é proporcionar uma experiência rica e dinâmica, permitindo que os usuários acompanhem o desempenho de seus pilotos favoritos e participem de competições amistosas dentro do aplicativo.
 </p>
 
 <h3>TimeTracker :2nd_place_medal:</h3>
 <p>
-O TimeTracker é um componente crucial do projeto TRACER, atuando como um protótipo para futuras melhorias e expansões. Este dispositivo é projetado para registrar e calcular o tempo de percurso de um carro entre dois pontos. Utilizando um RTC (Relógio em Tempo Real) e botões de entrada, o TimeTracker mede com precisão o tempo decorrido entre as pressões dos botões, que representam o carro passando por dois pontos de controle.
+O TimeTracker é um componente crucial do projeto TRacer, atuando como um protótipo para futuras melhorias e expansões. Este dispositivo é projetado para registrar e calcular o tempo de percurso de um carro entre dois pontos. Utilizando um RTC (Relógio em Tempo Real) e botões de entrada, o TimeTracker mede com precisão o tempo decorrido entre as pressões dos botões, que representam o carro passando por dois pontos de controle.
 
 Ao pressionar o primeiro botão, o tempo é registrado, e o LED azul acende brevemente para indicar a passagem do carro. Quando o segundo botão é pressionado, o tempo decorrido é calculado e mostrado em um display LCD, juntamente com a iluminação do LED amarelo para sinalizar a conclusão do percurso. Este tempo também é armazenado na EEPROM para análises futuras e pode ser exibido no monitor serial para monitoramento em tempo real. Além disso, o TimeTracker inclui uma animação visual de um carro no display LCD, criando uma experiência interativa para os usuários.
 </p>
