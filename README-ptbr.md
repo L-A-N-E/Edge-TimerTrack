@@ -5,8 +5,8 @@
 <h1 align="center"> :speaking_head: Leia isso em outros idiomas:exclamation:</h1>
 
 <p align="center">
-<a href="README-en.md" align="center">Inglês</a> •
-<a href="README.md" align="center">Português</a> 
+<a href="README.md" align="center">Inglês</a> •
+<a href="README-ptbr.md" align="center">Português</a> 
 </p>
 
 ## Índice 📃
