@@ -5,8 +5,8 @@
 <h1 align="center"> :speaking_head: Read this in other languages:exclamation:</h1>
 
 <p align="center">
-<a href="README-en.md" align="center">English</a> •
-<a href="README.md" align="center">Portuguese</a> 
+<a href="README.md" align="center">English</a> •
+<a href="README-ptbr.md" align="center">Portuguese</a> 
 </p>
   
 ## Index :memo:
